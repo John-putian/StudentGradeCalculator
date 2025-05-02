@@ -1,2 +1,0 @@
-# StudentGradeCalculator
-MIDTERM HANDSON EXAMINATION
